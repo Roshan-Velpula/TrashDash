@@ -24,6 +24,11 @@ In today's world, waste management is a critical issue. Properly sorting and rec
 - **Webcam Support**: Use your webcam to capture images of objects and receive real-time feedback.
 - **Interactive Dashboard**: View detailed analytics and data visualizations related to waste management.
 
+## Training
+
+- Yolov8 model has been trained for segmentation and object detection task on TACO Dataset
+- TACO Dataset is a publicly available annotated dataset for Trash Detection. [TACO Dataset](http://tacodataset.org/)
+
 ## Installation
 
 To install and run TrashDash Vision, follow these steps:
