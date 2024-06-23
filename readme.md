@@ -30,8 +30,8 @@ To install and run TrashDash Vision, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/trashdash-vision.git
-    cd trashdash-vision
+    git clone https://github.com/Roshan-Velpula/TrashDash
+    cd TrashDash
     ```
 
 2. **Set up a virtual environment**:
