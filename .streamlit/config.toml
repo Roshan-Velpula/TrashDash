@@ -1,0 +1,17 @@
+[client]
+showErrorDetails = false
+
+[server]
+enableXsrfProtection=false
+
+[theme]
+base="light"
+primaryColor="#6495ED"
+backgroundColor="#F0FFFF"
+secondaryBackgroundColor="#ADD8E6"
+textColor="#262730"
+font="sans serif"
+
+[pages]
+home = "temp_app.py"
+dashboard = "dash.py"

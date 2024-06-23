@@ -1,0 +1,12 @@
+langchain_experimental==0.0.61
+langchain_openai==0.1.9
+matplotlib==3.8.2
+numpy==1.25.2
+openai==1.35.3
+opencv_python==4.10.0.82
+opencv_python_headless==4.8.0.74
+pandas==1.5.3
+Pillow==10.3.0
+python-dotenv==1.0.1
+streamlit==1.31.1
+ultralytics==8.1.34
